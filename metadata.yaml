@@ -1,0 +1,36 @@
+_repo: Cronache-Letterarie_36109
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Capuana, Luigi
+    birthdate: 1839
+    deathdate: 1915
+    gutenberg_agent_id: '2402'
+    url: http://www.gutenberg.org/2009/agents/2402
+    wikipedia: http://it.wikipedia.org/wiki/Luigi_Capuana
+description: ''
+gutenberg_bookshelf: IT Letteratura
+gutenberg_issued: '2011-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36109'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Art in literature'
+- !lcsh 'Literature -- History and criticism'
+- !lcc 'PN'
+tableOfContents: Nuovi ideali d'arte e di critica, conferenza -- Felice Cavallotti,
+  drammaturgo e poeta -- Alfonso Daudet -- Goethe -- Giovanni Meli -- Gabriele d'Annunzio
+  -- Emilio Zola -- Una jettatura -- La Chimera -- E. Rod; E. Lesca -- Vittorio Pica
+  -- Enrico Ibsen -- Di un'opinione di E. Zacconi -- Ascensioni umane -- Tullo Massarani
+  -- E. De Amicis e P. Martini -- La nevrosi artistica -- Domando la parola -- Per
+  un romanzo -- Dialoghi d'Esteta -- Edoardo Boutet e le sue cronache drammatiche
+  -- La Società per gli studi francesi in Italia.
+title: Cronache Letterarie
+url: http://www.gutenberg.org/ebooks/36109
